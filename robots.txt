@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akbarmiranda.com.br/sitemap.xml
